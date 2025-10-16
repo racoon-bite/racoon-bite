@@ -26,6 +26,10 @@ const ThebeWanem = {
 ![Thebe Wanem's GitHub stats](https://github-readme-stats.vercel.app/api?username=racoon-bite&show_icons=true&bg_color=00000000)
 ---
 
+[![Quotes for You!](https://quotes-github-readme.vercel.app/api?type=horizontal&border=true&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
+---
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 ---
