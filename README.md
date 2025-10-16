@@ -4,7 +4,7 @@
 </em></p>
 
 [![Linkedin: Trija Thebe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trijathebe/)](https://www.linkedin.com/in/trijathbe/)
-[![GitHub racoon-bite](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/racoon-bite)
+[![GitHub racoon-bite](https://img.shields.io/github/followers/racoon-bite?label=follow&style=social)](https://github.com/racoon-bite)
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
