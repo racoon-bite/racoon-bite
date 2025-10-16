@@ -10,8 +10,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thebewanem = {
-  pronouns: "she" | "her",
+const ThebeWanem = {
+  pronouns: "she" | "her" | "his",
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
@@ -23,6 +23,8 @@ const thebewanem = {
  challenge: "I am doing the #100DaysOfCode challenge focused on python and rust"
 }
 ```
+![Thebe Wanem's GitHub stats](https://github-readme-stats.vercel.app/api?username=racoon-bite&show_icons=true&bg_color=00000000)
+---
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
