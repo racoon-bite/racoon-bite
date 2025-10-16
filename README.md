@@ -16,9 +16,9 @@ const thebewanem = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
+                        coorganizer: "FIG",
+                        speaker: "Aayush Wanem Limbu",
+                        mentor: "God"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on python and rust"
 }
