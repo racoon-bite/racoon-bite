@@ -3,7 +3,7 @@
 <p><em>Software Enginner at <a href="http://www.unb.br">Kyung sung University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Currently pursuing happiness in life <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
-[![Linkedin: Trija Thebe](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trijathebe/)](https://www.linkedin.com/in/trijathbe/)
+[![Linkedin: Trija Thebe](https://img.shields.io/badge/-Wanem Thebe-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/trija-thebe-8516761aa/)](https://www.linkedin.com/in/trija-thebe-8516761aa/)
 [![GitHub racoon-bite](https://img.shields.io/github/followers/racoon-bite?label=follow&style=social)](https://github.com/racoon-bite)
 
 
